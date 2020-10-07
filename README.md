@@ -6,3 +6,8 @@ After training, we present an input image to our bounding box regressor network 
 
 Please click on the link to download the saved weights.
 https://drive.google.com/file/d/1IDXE-FbK-5fCz-YVGXtkuM_gHMFMkOFY/view?usp=sharing
+
+Procedure to run the model.
+1)Build the architecture (Don't not train it beacuse the trained weights are already provided)
+2) load the saved weights
+3)Now use the model to make prediction 
